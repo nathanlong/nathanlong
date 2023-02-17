@@ -8,9 +8,41 @@
 
 I'm a **Former-Designer-turned-UI-Developer** for [Viget](https://www.viget.com/) where I help build user interfaces for clients. I create accessible experiences with a focus on animation and interaction design. I'm currently based in North Carolina.
 
-🪴 [nathan-long.com](https://nathan-long.com) | 🧪 [Ze LaBORatory](https://nathan-long.com/lab/) | 👨‍💻 [Codepen](https://codepen.io/nathanlong) | 🥫 [Recruiter Spam](https://www.linkedin.com/in/nathanmlong/)
+<a href="https://nathan-long.com">
+  <picture width="16" height="16"> 
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="16" height="16">
+  </picture> 
+  nathan-long.com
+</a> | 
+<a href="https://nathan-long.com/lab/">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="16" height="16">
+  </picture>
+  Ze LaBORatory
+</a> |
+<a href="https://codepen.io/nathanlong">
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="16" height="16">
+  </picture>
+  Codepen
+</a> |
+<a href="https://www.linkedin.com/in/nathanmlong/">
+  🥫 Recruiter Spam
+</a>
 
 &nbsp;
 
-𝕷𝖊𝖙'𝖘 𝖐𝖊𝖊𝖕 𝖙𝖍𝖊 ꠸ꪀꪻꫀ᥅ꪀꫀꪻ W̴̢̹͕͙͕̳͐̈́͝E̴̡͎͐͛̇̾͊̐̑͒̑͝ͅI̸͇̟̗͗̾̈́̃̒̋̄͜͝Ŗ̶̲͔̜̞̰̘̯͋̑̅̀͛̊D̴̡̦̘͇̘͈̩͐̈́̋́͐̋͛͝...
+```
+┍━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑  
+┃ 𝕷𝖊𝖙'𝖘 𝖐𝖊𝖊𝖕 𝖙𝖍𝖊 ꠸ꪀꪻꫀ᥅ꪀꫀꪻ W̴̢̹͕͙͕̳͐̈́͝E̴̡͎͐͛̇̾͊̐̑͒̑͝ͅI̸͇̟̗͗̾̈́̃̒̋̄͜͝Ŗ̶̲͔̜̞̰̘̯͋̑̅̀͛̊D̴̡̦̘͇̘͈̩͐̈́̋́͐̋͛͝... ⎹   
+┕━| /━━━━━━━━━━━━━━━━━━━━━━━━━━━┙   
+  |/
+```
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f422/512.gif" alt="🐢" width="64" height="64">
+</picture>
 
