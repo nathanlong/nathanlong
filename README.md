@@ -6,7 +6,7 @@
   </picture>
 </h2>
 
-I'm a **Former-Designer-turned-UI-Developer** for [Viget](https://www.viget.com/) where I help build user interfaces for clients. I create accessible experiences with a focus on animation and interaction design. I'm currently based in North Carolina.
+I'm a **Designer-turned-UI-Developer** for [Viget](https://www.viget.com/) where I help build user interfaces for clients. I create accessible experiences with a focus on animation and interaction design. I'm currently based in North Carolina.
 
 <a href="https://nathan-long.com">
   <picture width="16" height="16"> 
