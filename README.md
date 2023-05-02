@@ -30,7 +30,7 @@ I'm a **Designer-turned-UI-Developer** for [Viget](https://www.viget.com/) where
   Codepen
 </a> |
 <a href="https://www.linkedin.com/in/nathanmlong/">
-  🥫 Recruiter Spam
+  🥫 Resumé
 </a>
 
 &nbsp;
